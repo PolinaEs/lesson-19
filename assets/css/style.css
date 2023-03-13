@@ -1,0 +1,37 @@
+.navbar {
+  background-color: #761c1cd9;
+}
+
+.dropdown-menu {
+  background-color: #761c1cd9;
+  --bs-dropdown-link-hover-bg: #a94e4ed9;
+}
+
+
+.dropdown-menu:hover {
+  background-color: #801511;
+}
+
+.main__body {
+  margin-top: 90px;
+}
+
+.btn {
+  background-color: #4f0606d9;
+  border-color: rgb(130, 22, 22);
+}
+
+.d-block {
+  height: 800px;
+}
+
+.accordion {
+  margin-top: 140px;
+  border: 1px solid brown;
+
+}
+
+.scrollspy-example>p {
+  padding-top: 50px;
+  padding-bottom: 50px;
+}
