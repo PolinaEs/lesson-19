@@ -27,6 +27,7 @@
 
 .accordion {
   margin-top: 140px;
+  margin-bottom: 50px;
   border: 1px solid brown;
 
 }
@@ -34,4 +35,9 @@
 .scrollspy-example>p {
   padding-top: 50px;
   padding-bottom: 50px;
+}
+
+.left {
+
+  margin-bottom: 15px;
 }
